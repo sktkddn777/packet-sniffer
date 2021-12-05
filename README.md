@@ -25,7 +25,7 @@ sniffer.py 실행:
 ```bash
 python sniffer.py
 ```
-1번을 누르면 packet sniffing을 시작합니다.
-2번을 누르면 packet sniffing을 종료합니다. 그리고 결과값을 알려줍니다.
+1번을 누르면 packet sniffing을 시작합니다.  
+2번을 누르면 packet sniffing을 종료합니다. 그리고 결과값을 알려줍니다.  
 
 ```output```폴더에 결과가 저장됩니다.
